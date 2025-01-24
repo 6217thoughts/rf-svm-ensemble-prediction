@@ -1,6 +1,6 @@
 # Ensemble Model of Random Forest and Support Vector Machine for Detecting Pneumonia Using Protein Sequence Data 
 This project implements an ensemble model combining Random Forest and SVM to detect pneumonia using protein sequence data. 
-rf_svm_ensemble_prediction.ipynb
+
 
 -- Project status: completed.
 
